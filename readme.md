@@ -8,7 +8,7 @@ dashboard.
 **Dashboard:** [Live on Tableau Public](ADD-LINK-WHEN-PUBLISHED)
 
 ## Architecture
-
+```
 Yahoo Finance API
       │
       ▼
@@ -23,7 +23,7 @@ Yahoo Finance API
       │
       ▼
  export_for_tableau.py ► tableau_data.csv (visualize: Tableau Public dashboard)
-
+```
 ## Tech Stack
 
 - **Python** — yfinance, pandas
