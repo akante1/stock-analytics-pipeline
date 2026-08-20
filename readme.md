@@ -5,7 +5,7 @@ stocks, stores it in a SQL database, transforms it with window functions and
 CTEs, and surfaces insights through Python analysis and an interactive Tableau
 dashboard.
 
-**Dashboard:** [Live on Tableau Public](ADD-LINK-WHEN-PUBLISHED)
+**Dashboard:** (https://public.tableau.com/views/StockMarketAnalyticsDashboard/Dashboard1?)
 
 ## Architecture
 ```
