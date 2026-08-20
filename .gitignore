@@ -1,0 +1,10 @@
+tableau_data.csv
+
+# generated data - anyone can rebuild these by running the scripts
+stock_prices.csv
+stocks.db
+tableau_data.csv
+
+# python junk
+venv/
+__pycache__/
